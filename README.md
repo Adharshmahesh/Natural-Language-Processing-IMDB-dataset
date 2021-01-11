@@ -8,5 +8,5 @@ This is a dataset for binary sentiment classification containing substantially m
 
 # Word cloud
 
-[Word cloud for positive reviews in IMDB dataset](REVIEW1 (1).png)
+![alt text](Wordcloud.png)
 
